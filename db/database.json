@@ -1,0 +1,142 @@
+{
+  "bookings": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "building": "Building A",
+      "roomNumber": "101",
+      "in": "2023-06-29",
+      "out": "2023-06-30",
+      "price": 1520
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "building": "Building B",
+      "roomNumber": "201",
+      "in": "2023-06-29",
+      "out": "2023-06-30",
+      "price": 200
+    },
+    {
+      "firstName": "Edgar",
+      "lastName": "Lopez",
+      "building": "Building F",
+      "roomNumber": "103",
+      "in": "2023-06-29",
+      "out": "2023-06-30",
+      "price": 130,
+      "id": null
+    }
+  ],
+  "rooms": [
+    {
+      "id": "5",
+      "building": "Building B",
+      "floor": 1,
+      "roomNumber": "102",
+      "services": ["Wi-Fi", "TV"],
+      "status": "true",
+      "price": "25"
+    },
+    {
+      "id": "6",
+      "building": "Building B",
+      "floor": 2,
+      "roomNumber": "201",
+      "services": ["Wi-Fi", "TV", "Mini Bar"],
+      "status": "true",
+      "price": 135
+    },
+    {
+      "id": "7",
+      "building": "Building C",
+      "floor": 1,
+      "roomNumber": "101",
+      "services": ["Wi-Fi", "TV", "Air Conditioning"],
+      "status": "false",
+      "price": 120
+    },
+    {
+      "id": "8",
+      "building": "Building C",
+      "floor": 1,
+      "roomNumber": "102",
+      "services": ["Wi-Fi", "TV"],
+      "status": "true",
+      "price": 155
+    },
+    {
+      "id": "9",
+      "building": "Building C",
+      "floor": 2,
+      "roomNumber": "201",
+      "services": ["Wi-Fi", "TV", "Mini Bar"],
+      "status": "false",
+      "price": 150
+    },
+    {
+      "id": 10,
+      "building": "Building D",
+      "floor": 1,
+      "roomNumber": "101",
+      "services": ["Wi-Fi", "TV", "Air Conditioning"],
+      "status": "true",
+      "price": 122
+    },
+    {
+      "id": "12",
+      "building": "Building g",
+      "floor": "12",
+      "roomNumber": "123",
+      "services": ["internet", "food", "tv"],
+      "status": "true",
+      "price": "200"
+    },
+    {
+      "id": "39e24b81-fb72-45ea-ae9c-46cf82b26e94",
+      "building": "Building gf",
+      "floor": "1",
+      "roomNumber": "70",
+      "services": ["internet", "food", "tv", "shows"],
+      "status": "true",
+      "price": "250"
+    },
+    {
+      "id": "aa93e759-3688-4a64-883a-2f439a26417e",
+      "building": "Building gdd",
+      "floor": "122",
+      "roomNumber": "12322",
+      "services": ["internet", "food", "tv", "pool"],
+      "status": "false",
+      "price": "1233"
+    },
+    {
+      "id": "0a03646c-82b0-4695-8ed4-5d1e9d493568",
+      "building": "New One",
+      "floor": "44",
+      "roomNumber": "4433",
+      "services": ["tenis", "futboll"],
+      "status": "true",
+      "price": "229"
+    },
+    {
+      "id": "015db3e1-de61-4da5-9efd-442e971ca61a",
+      "building": "Building g",
+      "floor": "122",
+      "roomNumber": "123",
+      "services": ["internet", "food", "tv"],
+      "status": "false",
+      "price": "200"
+    },
+    {
+      "id": "2c3abaab-db98-4090-ae9a-9a1744384f16",
+      "building": "Building ggggg",
+      "floor": "122",
+      "roomNumber": "123",
+      "services": ["internet", "food", "tv"],
+      "status": "false",
+      "price": "200"
+    }
+  ]
+}
